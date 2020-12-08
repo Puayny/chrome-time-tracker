@@ -1,0 +1,1 @@
+Chrome extension to track time spent across the internet.
